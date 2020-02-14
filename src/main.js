@@ -1,8 +1,10 @@
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './styles.css';
-// import $ from 'jquery';
-import { thingFunction } from './thing.js'
+import $ from 'jquery';
+import { Thing } from './thing.js'
 
-
-console.log(thingFunction);
+$(document).ready(function(){
+  let thing = new Thing();
+  console.log(thing.thingFunction());
+});

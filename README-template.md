@@ -20,11 +20,11 @@ _README under construction_
 
 ### Instructions
 
-<!-- **This page may be viewed by:**
+<!-- *This page may be viewed by:*
 
 1. Download and install Node.js from the [official website](https://nodejs.org/en/download/)
 2. Clone the [repository](https://github.com/TSiu88/beep-boop.git) from my [GitHub page](https://github.com/TSiu88)
-3. Use a command line/Bash to move to the project directory with `cd into-project-directory`
+3. Use a command line/Bash to move to the project directory with `cd project-directory`
 4. Run `npm install` to get all dependencies. 
 5. Run `npm run start` to start up the program -->
 
@@ -41,7 +41,6 @@ _README under construction_
 * _Bootstrap 4.4.1_
 * _ESLint_
 * _Babel_
-* _Webpack_
 * _Jest_
 * _Markdown_
 
